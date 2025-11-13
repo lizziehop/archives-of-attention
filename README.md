@@ -9,9 +9,9 @@ This project asks: how  Can we look toward both objects (games, novels, toys, me
 
  
 
-#Project Researchers and Contributors
-Shannon Letourneau (summer 2025)
-Luci Quinn (summer 2025)
-Jeremiah Lateef (summer 2025)
-Rayne Broach (summer 2025)
-Amada Castillo (fall 2025)
+###Project Researchers and Contributors
+* Shannon Letourneau (summer 2025)
+* Luci Quinn (summer 2025)
+* Jeremiah Lateef (summer 2025)
+* Rayne Broach (summer 2025)
+* Amada Castillo (fall 2025)
