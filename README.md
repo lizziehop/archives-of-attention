@@ -7,9 +7,7 @@ Materials, documentation, and other files for Archives of Attention, a Digital H
 
 This project asks: how  Can we look toward both objects (games, novels, toys, media) and what was written about those objects (reviews, critiques, promotions) to understand the nineteenth century roots of attention as a corollary to burgeoning ideas about leisure and labor? What types of attention were valued, and for what purposes? What genres were employed and developed to capture attention, from color lithography and trade cards to novels and serialized fiction. And finally, how might a humanities-driven study of these questions open up a space for thinking about how we read, define, and interpret the stakes of attention? 
 
- 
-
-##Project Researchers and Contributors
+## Project Researchers and Contributors
 * Shannon Letourneau (summer 2025)
 * Luci Quinn (summer 2025)
 * Jeremiah Lateef (summer 2025)
